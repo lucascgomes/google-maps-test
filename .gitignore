@@ -1,3 +1,10 @@
+#From our previous projects:
+*.pyc
+*.DS_Store
+*.db
+*.db.orig
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
